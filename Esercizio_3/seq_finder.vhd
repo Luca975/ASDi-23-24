@@ -1,5 +1,5 @@
 library IEEE;
-use IEEE.STD_LOGIC__1164.all;
+use IEEE.STD_LOGIC_1164.all;
 
 entity seq_finder is
 	port(
